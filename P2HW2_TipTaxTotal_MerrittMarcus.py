@@ -11,7 +11,7 @@ salestax = 0.07 * foodcost
 
 totalcost = foodcost + tipamount + salestax
 
-print("Food Charge: $" + format(FoodCost, ",.2f"))"Tip: $+ \
+print("Food Charge: $" + format(FoodCost, ",.2f"))
 
 print("Tip Amount: $" + format(TipAmount, ",.2f"))
 
